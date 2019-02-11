@@ -1,0 +1,5 @@
+These are the which I plan to add to this game:
+  1. It would have more rooms to be explored i.e. much more mysteries to solve
+  2. It would have a help script for the users to help them to play this game.
+  3. It would have a username and userdata concept where it would store the achivements of individual users and provide a way,
+      to access that data to respective user.
